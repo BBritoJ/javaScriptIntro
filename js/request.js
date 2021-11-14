@@ -25,6 +25,6 @@ buscarPacientes.addEventListener("click", function(){
    
 
 
-    req.send(); //the request is onlu sent after this
+    req.send(); //the request is only sent after this
 
 })
